@@ -4,6 +4,16 @@
       "id":1,
       "name":"samiran",
       "roll":"developer"
+    },
+    {
+      "id":2,
+      "name":"rai",
+      "roll":"developer"
+    },
+    {
+      "id":3,
+      "name":"saam",
+      "roll":"developer"
     }
   ]
 }
